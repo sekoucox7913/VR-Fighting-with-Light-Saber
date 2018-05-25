@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Manager\BattleManager.cs">
+    <Files>
+      <File FileName="Assets\Scripts\AppEntitlementCheck.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Splash.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ActorPlayer.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Manager\BattleManager.cs" Line="109" Column="73" />
+      <File FileName="Assets\Resources\Json\monster.json" Line="1" Column="1" />
+      <File FileName="Assets\Resources\Json\Testmonster.json" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Manager\LoadData.cs" Line="59" Column="29" />
+      <File FileName="Assets\Scripts\Monster\ActorMonster.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
